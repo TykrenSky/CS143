@@ -1,0 +1,11 @@
+<s>::=<np> <vp>
+<np>::=<dp> <adjp> <n>|<pn>
+<pn>::=Paris|Thomas|Hank|University of Washington|Mount Rushmore|Polaroid|Ghandi
+<adjp>::=<adj>|<adj> <adjp>
+<adj>::=romantic|musical|dermagraphic|squishy|purple
+<dp>::=the|a
+<n>::=kiss|curtain|bone|avocado|brush|pineapple|tongue|ear
+<vp>::=<tv> <np>|<iv>|<dtv> <np> <np>
+<dtv>::=gave
+<tv>::=poked|slurped|curled|dressed|covered|shaved|hung
+<iv>::=arrived|danced|stretched|thought|glittered|exploded

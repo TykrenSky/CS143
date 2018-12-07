@@ -1,0 +1,70 @@
+Q:
+Is it alive?
+Q:
+Is it a person?
+Q:
+Are they pretty?
+A:
+Annie Mullins
+Q:
+Are they currently President of the US?
+A:
+Donald Trump
+A:
+Tieran Rashid
+Q:
+Is it a plant?
+Q:
+Do people normally eat it?
+A:
+celery
+A:
+grass
+A:
+turtle
+Q:
+Does it have a screen?
+Q:
+Is it used exclusively for math problems?
+A:
+calculator
+Q:
+Can it be used to make phone calls?
+A:
+cell phone
+A:
+computer
+Q:
+Can you wear it?
+Q:
+Does it go on your head?
+A:
+hat
+A:
+pants
+Q:
+Can you put things in it?
+Q:
+Does it normally hold liquid?
+A:
+cup
+A:
+box
+Q:
+Can you eat it?
+Q:
+Does it come from a cow?
+A:
+milk
+A:
+tea
+Q:
+Is it a puzzle?
+A:
+rubiks cube
+Q:
+Is it used in role playing games?
+A:
+D20
+A:
+remote
